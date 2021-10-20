@@ -1,1 +1,1 @@
-# Ising-model-simulation
+# 3D-Ising-model-simulation
